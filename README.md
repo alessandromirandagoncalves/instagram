@@ -1,10 +1,8 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Criação de Instagram alternativo
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Como exercício foi pedido que refizéssemos a tela de login do Instagram.
+Segue minha homenagem à grande série **Star Wars** e criei o 
+# Stargram
 
-### Os requisitos são:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-## 🚀 Let's code! 🚀
+## 🚀 Que a Força esteja com você 🚀
